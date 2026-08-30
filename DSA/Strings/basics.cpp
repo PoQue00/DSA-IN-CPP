@@ -7,5 +7,6 @@ int main(){
     cout<<s<<endl;
     cout<<s.length()<<endl;
     cout<<s.size()<<endl;
+    getline(cin, s)    // To get whole string i/p even after space
 
 }
